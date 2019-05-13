@@ -6,3 +6,5 @@ Modern JavaScript from the beginning
 
 
 11/05/2019 - Why does the README show my commits? And not my actual code.
+
+13/05/2019 - Exercise String Methods & Concatenation
