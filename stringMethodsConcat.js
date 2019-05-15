@@ -13,12 +13,12 @@ val = firstName + ' ' + lastName;
 
 // Append
 val = 'Cameron ';
-val += 'Nepe';
+val += 'Nepe'; // Outputs 'Cameron Nepe' using the '+='
 
 val = 'Hello, my name is ' + firstName + ' and I am ' + age;
 
 // Escaping
-val =  'That\'s awesome, I can\'t wait';
+val =  'That\'s awesome, I can\'t wait'; // prevents the string from ending \'
 
 // Length
 val = firstName.length; // counts the number of letters in the string
