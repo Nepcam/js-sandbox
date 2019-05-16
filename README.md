@@ -10,3 +10,4 @@ Modern JavaScript from the beginning
 13/05/2019 - Exercise String Methods & Concatenation
 14/05/2019 - String Methods & Concatenation continued
 15/05/2019 - Template Literals
+16/05/2019 - Template Literals (cont) & Arrays & Array Methods
