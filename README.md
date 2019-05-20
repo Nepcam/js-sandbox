@@ -11,3 +11,4 @@ Modern JavaScript from the beginning
 14/05/2019 - String Methods & Concatenation continued
 15/05/2019 - Template Literals
 16/05/2019 - Template Literals (cont) & Arrays & Array Methods
+20/05/2019 - Arrays & Array Methods
