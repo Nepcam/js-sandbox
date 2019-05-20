@@ -19,7 +19,7 @@ function hello() {
 };
 
 // With template strings
-html = `
+html = `                                
     <ul>
         <li>Name: ${name}</li>
         <li>Age: ${age}</li>
@@ -29,6 +29,6 @@ html = `
         <li>${hello()}</li>
         <li>${age > 40 ? 'Over 40' : 'Under 40'}</li>
     </ul>
-`;
+`; // Using back-ticks ` `; 
 
 document.body.innerHTML = html;
