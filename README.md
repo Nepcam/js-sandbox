@@ -13,3 +13,4 @@ Modern JavaScript from the beginning
 16/05/2019 - Template Literals (cont) & Arrays & Array Methods
 20/05/2019 - Arrays & Array Methods
 21/05/2019 - Arrays & Array Method continued
+22/05/2019 - Object Literals
