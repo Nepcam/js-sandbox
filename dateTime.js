@@ -14,13 +14,15 @@ val = today.getSeconds();
 val = today.getMilliseconds();
 val = today.getTime();
 
-birthday.setMonth(2);
-birthday.setDate(17);
-birthday.setFullYear(2001);
+birthday.setMonth(2);  // output = March
+birthday.setDate(17); // 17
+birthday.setFullYear(2007); // 2007
 birthday.setHours(3);
 birthday.setMinutes(30);
 birthday.setSeconds(30);
 
+console.log(val);
 console.log(birthday);
+
 
 // dates are zero based. keep in mind when getting or setting dates
