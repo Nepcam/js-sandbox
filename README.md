@@ -15,3 +15,4 @@ Modern JavaScript from the beginning
 21/05/2019 - Arrays & Array Method continued
 22/05/2019 - Object Literals & Date & Time
 23/05/2019 - if Statements & Comparrison Operators
+24/05/2019 - Switches
