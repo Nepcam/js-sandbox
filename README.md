@@ -17,3 +17,4 @@ Modern JavaScript from the beginning
 23/05/2019 - if Statements & Comparrison Operators
 24/05/2019 - Switches
 26/05/2019 - Revision 
+27/05/2019 - Function Declarations & Expressions
