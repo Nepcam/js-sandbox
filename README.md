@@ -18,3 +18,4 @@ Modern JavaScript from the beginning
 #24/05/2019 - Switches
 #26/05/2019 - Revision 
 #27/05/2019 - Function Declarations & Expressions
+#28/05/2019 - General Loops
