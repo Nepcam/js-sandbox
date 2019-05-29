@@ -1,7 +1,7 @@
 // FOR LOOP
 
 for(let i = 0; i < 10; i++){
-    if(i === 2){
+    if(i === 2){    
         console.log('2 is my favourite number');
         continue;
     }  
@@ -12,7 +12,7 @@ for(let i = 0; i < 10; i++){
     console.log('Number '+ i);
 }
 
-// EXAMPLE i++ = (i = i + 1) 
+// EXAMPLE i++ = (i = i + 1) up until (i) is no longer less than 10. 
 
 
 // WHILE LOOP
