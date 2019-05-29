@@ -19,3 +19,4 @@ Modern JavaScript from the beginning
 #26/05/2019 - Revision 
 #27/05/2019 - Function Declarations & Expressions
 #28/05/2019 - General Loops
+#29/05/2019 - Window object
